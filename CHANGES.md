@@ -1,3 +1,7 @@
+## 6.0.0-rc.1 (2025-06-09)
+
+* Dummy release
+
 ## 4.0.0-rc.1 (2025-06-04)
 
 * Dummy release
